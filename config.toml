@@ -18,10 +18,6 @@ theme = "researcher"
     colorBlack = "#222222"
     colorRed = "#dc3545"
   [[params.socialIcons]]
-    icon = "fab fa-github"
-    title = "Github"
-    url = "https://github.com/"
-  [[params.socialIcons]]
     icon = "fas fa-envelope"
     title = "E-mail"
     url = "unbreakablewxk@sjtu.edu.cn"
@@ -35,7 +31,7 @@ theme = "researcher"
     url = "/about"
     weight = 1
   [[menu.main]]
-    name = "Pub"
+    name = "Pubs"
     url = "/pub"
     weight = 2
   [[menu.main]]
