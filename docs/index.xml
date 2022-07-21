@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://wang-xinkai.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
+      <title>Blogs</title>
       <link>https://wang-xinkai.github.io/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -16,24 +16,14 @@
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://wang-xinkai.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wang-xinkai.github.io/about/</guid>
-      <description>About Me Hi!</description>
-    </item>
-    
-    <item>
       <title>Contact</title>
       <link>https://wang-xinkai.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wang-xinkai.github.io/contact/</guid>
-      <description> Email: unbreakablewxk@sjtu.edu.cn Phone: +86-15201967357 Mailing Address 800 Dongchuan RD. Minhang District,
+      <description>Email: unbreakablewxk@sjtu.edu.cn Phone: +86-15201967357 Github Google Scholar Mailing Address 800 Dongchuan RD. Minhang District,
 Shanghai,
-China
-Social Facebook Twitter Google+ </description>
+China</description>
     </item>
     
     <item>
@@ -51,9 +41,31 @@ Social Facebook Twitter Google+ </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wang-xinkai.github.io/pub/</guid>
-      <description>Publications (In chronological order) Conference [C1] Xinkai Wang, Chao Li, Lu Zhang, Xiaofeng Hou, Quan Chen, and Minyi Guo “Exploring Efficient Microservice Level Parallelism”. International Parallel and Distributed Processing Symposium (IPDPS), May. 2022
-[Paper]
-Patents [P1] Chao Li, Lu Zhang, Weiqi Feng, Zheng Yu, Xinkai Wang, Minyi Guo. &amp;ldquo;Power management for serverless functions based on intermediate representation&amp;rdquo;, Chinese Patent, CN202110659654.5[P], 2021-06-15.</description>
+      <description>Publications Conference [C1] Xinkai Wang, Chao Li, Lu Zhang, Xiaofeng Hou, Quan Chen, and Minyi Guo “Exploring Efficient Microservice Level Parallelism”. International Parallel and Distributed Processing Symposium (IPDPS), May. 2022
+[Paper] [Slide]
+Patents [P1] Chao Li, Lu Zhang, Weiqi Feng, Zheng Yu, Xinkai Wang, Minyi Guo. &amp;ldquo;Power management for serverless functions based on intermediate representation&amp;rdquo;, Chinese Patent,2021-06-15.</description>
+    </item>
+    
+    <item>
+      <title>王鑫凯</title>
+      <link>https://wang-xinkai.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wang-xinkai.github.io/about/</guid>
+      <description>欢迎光临！
+我目前是一年级博士研究生，就读于上海交通大学计算机科学与工程系，导师是李超教授，在可持续计算架构实验室开展科研工作。我的研究兴趣是智能系统和云计算系统的体系结构设计和系统优化。
+新闻 [2021.12] 一篇文章被IPDPS 2022接收 教育经历 2021.09-2026.06 博士研究生 计算机科学与技术
+计算机科学与工程系，上海交通大学
+2017.09-2021.06 学士 计算机科学与技术
+计算机科学与工程系，上海交通大学
+2017.09-2021.06 学士 致远工科荣誉计划
+致远学院，上海交通大学
+部分荣誉 杨元庆本科生卓越奖学金, 上海交大计算机科学与工程系, 2021
+优秀毕业生, 上海交通大学, 2021
+A等优秀奖学金 上海交通大学, 2020
+致远荣誉奖学金 上海交通大学, 2020
+论文成果 Xinkai Wang, Chao Li, Lu Zhang, Xiaofeng Hou, Quan Chen, and Minyi Guo “Exploring Efficient Microservice Level Parallelism”. International Parallel and Distributed Processing Symposium (IPDPS), May. 2022 [Paper] 过往经历 公司经历 2022.02-2022.05 研究实习生, 系统创新组, 微软亚洲研究院
+2021.07-2021.10 研究实习生, 算法创新实验室, 华为</description>
     </item>
     
   </channel>

@@ -3,9 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://wang-xinkai.github.io/blog/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://wang-xinkai.github.io/about/</loc>
   </url><url>
     <loc>https://wang-xinkai.github.io/categories/</loc>
   </url><url>
@@ -18,5 +15,7 @@
     <loc>https://wang-xinkai.github.io/tags/</loc>
   </url><url>
     <loc>https://wang-xinkai.github.io/</loc>
+  </url><url>
+    <loc>https://wang-xinkai.github.io/about/</loc>
   </url>
 </urlset>
