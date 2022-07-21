@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>Wang-Xinai.github.io/blog/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>Wang-Xinai.github.io/about/</loc>
+  </url><url>
+    <loc>Wang-Xinai.github.io/categories/</loc>
+  </url><url>
+    <loc>Wang-Xinai.github.io/contact/</loc>
+  </url><url>
+    <loc>Wang-Xinai.github.io/project/</loc>
+  </url><url>
+    <loc>Wang-Xinai.github.io/pub/</loc>
+  </url><url>
+    <loc>Wang-Xinai.github.io/tags/</loc>
+  </url><url>
+    <loc>Wang-Xinai.github.io/</loc>
+  </url>
+</urlset>
