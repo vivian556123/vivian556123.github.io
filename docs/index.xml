@@ -2,34 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xinkai Wang</title>
-    <link>Wang-Xinai.github.io/</link>
+    <link>https://wang-xinkai.github.io/</link>
     <description>Recent content on Xinkai Wang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="Wang-Xinai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://wang-xinkai.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>Wang-Xinai.github.io/blog/</link>
+      <link>https://wang-xinkai.github.io/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>Wang-Xinai.github.io/blog/</guid>
+      <guid>https://wang-xinkai.github.io/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>Wang-Xinai.github.io/about/</link>
+      <link>https://wang-xinkai.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>Wang-Xinai.github.io/about/</guid>
+      <guid>https://wang-xinkai.github.io/about/</guid>
       <description>About Me Hi!</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>Wang-Xinai.github.io/contact/</link>
+      <link>https://wang-xinkai.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>Wang-Xinai.github.io/contact/</guid>
+      <guid>https://wang-xinkai.github.io/contact/</guid>
       <description> Email: unbreakablewxk@sjtu.edu.cn Phone: +86-15201967357 Mailing Address 800 Dongchuan RD. Minhang District,
 Shanghai,
 China
@@ -38,19 +38,19 @@ Social Facebook Twitter Google+ </description>
     
     <item>
       <title>Projects</title>
-      <link>Wang-Xinai.github.io/project/</link>
+      <link>https://wang-xinkai.github.io/project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>Wang-Xinai.github.io/project/</guid>
+      <guid>https://wang-xinkai.github.io/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publication</title>
-      <link>Wang-Xinai.github.io/pub/</link>
+      <link>https://wang-xinkai.github.io/pub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>Wang-Xinai.github.io/pub/</guid>
+      <guid>https://wang-xinkai.github.io/pub/</guid>
       <description>Publications (In chronological order) Conference [C1] Xinkai Wang, Chao Li, Lu Zhang, Xiaofeng Hou, Quan Chen, and Minyi Guo “Exploring Efficient Microservice Level Parallelism”. International Parallel and Distributed Processing Symposium (IPDPS), May. 2022
 [Paper]
 Patents [P1] Chao Li, Lu Zhang, Weiqi Feng, Zheng Yu, Xinkai Wang, Minyi Guo. &amp;ldquo;Power management for serverless functions based on intermediate representation&amp;rdquo;, Chinese Patent, CN202110659654.5[P], 2021-06-15.</description>

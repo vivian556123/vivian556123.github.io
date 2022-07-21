@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://wang-xinkai.github.io/'
 languageCode = 'en-us'
 title = 'Xinkai Wang'
 theme = "researcher"
