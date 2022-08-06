@@ -1,12 +1,12 @@
 ---
-title: Leying ZHANG
-role: Master Student of Computer Science
+title: Leying Zhang
+role: MSc in Computer Science
 avatar_filename: avatar.jpg
 bio: My research interests include speaker verification
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Speaker Verification
+  - Speaker Retrieval
 social:
   - icon: envelope
     icon_pack: fas
