@@ -25,10 +25,10 @@ education:
   courses:
     - course: MSc in Computer Science
       institution: Shanghai Jiao Tong Univeristy
-      year: 2025
+      year: 2024
     - course: Exchange Student in Data Science
       institution: Télécom Paris
-      year: 2020
+      year: 2021
     - course: BSc in Information Engineering
       institution: Shanghai Jiao Tong Uniiversity
       year: 2021
