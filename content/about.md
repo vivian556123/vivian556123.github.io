@@ -6,11 +6,12 @@ title = "王鑫凯"
 
 {{< figure class="avatar" src="/photo.jpg" alt="avatar">}}
 
-我目前是一年级博士研究生，就读于上海交通大学计算机科学与工程系，导师是[李超教授](https://www.cs.sjtu.edu.cn/~lichao/cn/index-cn.html)，在[可持续计算架构实验室](https://www.cs.sjtu.edu.cn/sail/index-cn.html)开展科研工作。我的研究兴趣是智能系统和云计算系统的体系结构设计和系统优化。
+我目前是二年级博士研究生，就读于上海交通大学计算机科学与工程系，导师是[李超教授](https://www.cs.sjtu.edu.cn/~lichao/cn/index-cn.html)，在[可持续计算架构实验室](https://www.cs.sjtu.edu.cn/sail/index-cn.html)开展科研工作。我的研究兴趣是数据中心和云原生应用的体系结构优化。
 
 ---
 
 ## 新闻
++ [2022.12] 一篇文章被[IPDPS 2023](https://www.ipdps.org/)接收
 + [2021.12] 一篇文章被[IPDPS 2022](https://www.ipdps.org/)接收
 
 ---
@@ -73,9 +74,9 @@ My broader interests include emerging technologies and evolving applications tha
 
     <!-- I worded on  -->
 
-+ 2020.07-2020.09 **后台开发实习生**, [优图实验室](https://cloud.tencent.com/developer/column/1510), 腾讯
+<!-- + 2020.07-2020.09 **后台开发实习生**, [优图实验室](https://cloud.tencent.com/developer/column/1510), 腾讯
 
-    <!-- I worked on agile deployment of running systems with K8S and ELK.  -->
+     I worked on agile deployment of running systems with K8S and ELK.  -->
 
 #### 教学经历
 
