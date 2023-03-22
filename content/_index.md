@@ -7,13 +7,14 @@ title = "Xinkai Wang"
 {{< figure class="avatar" src="/photo.jpg" alt="avatar">}}
 
 Hi, I am Xinkai Wang. 
-Currently, I am a first-year Ph.D. student in Department of Computer Science and Engineering, Shanghai Jiao Tong University.
+Currently, I am a second-year Ph.D. student in Department of Computer Science and Engineering, Shanghai Jiao Tong University.
 I am honored to be guided by [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/index.html) in [Sustainable Architecture and Infrastructure Lab](https://www.cs.sjtu.edu.cn/sail/) (SAIL).
-My research interests includes architectural design and system optimization for autonomous systems and cloud systems.
+My research interests includes datacenter optimization and cloud-native applications. I am currently working on enhancing architectural observability of datacenters in Alibaba.
 
 ---
 
 ## News
++ [2022.12] One paper is accepted by [IPDPS 2023](https://www.ipdps.org/)
 + [2021.12] One paper is accepted by [IPDPS 2022](https://www.ipdps.org/)
 
 ---
@@ -40,7 +41,7 @@ My broader interests include emerging technologies and evolving applications tha
 
 + 2017.09-2021.06 **B.S.** in Zhiyuan Honors Program of Engineering
 
-    [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/html/zhiyuan/)
+    Zhiyuan College
     
     Shanghai Jiao Tong University, China
 
@@ -74,6 +75,7 @@ My broader interests include emerging technologies and evolving applications tha
 
 #### Industrial Experiences
 
++ 2023.02-Present **Research Intern**, TRE, Alibaba
 + 2022.02-2022.05 **Research Intern**, [Systems Innovation Group](https://www.microsoft.com/en-us/research/group/systems-innovation/), MSRA   
 
     <!-- I worked on power-aware VM management. Per-VM power modeling, power-aware live migration,  -->
@@ -82,9 +84,9 @@ My broader interests include emerging technologies and evolving applications tha
 
     <!-- I worded on  -->
 
-+ 2020.07-2020.09 **Software Engineering Intern**, [Youtu Lab](https://cloud.tencent.com/developer/column/1510), Tencent
+<!-- + 2020.07-2020.09 **Software Engineering Intern**, [Youtu Lab](https://cloud.tencent.com/developer/column/1510), Tencent
 
-    <!-- I worked on agile deployment of running systems with K8S and ELK.  -->
+     I worked on agile deployment of running systems with K8S and ELK.  -->
 
 #### Teaching Experiences
 
