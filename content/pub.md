@@ -23,4 +23,5 @@ title = "Publication"
 
 ### Patents
 [P1] Chao Li, **Xinkai Wang**, Lu Zhang, Zhexuan Chen, Quan Chen, Minyi Guo. "Request scheduler for multi-dimensional dynamic microservice-based applications", *Chinese Patent,2023-03.*
+
 [P2] Chao Li, Lu Zhang, Weiqi Feng, Zheng Yu, **Xinkai Wang**, Minyi Guo. "Power management for serverless functions based on intermediate representation", *Chinese Patent,2021-06.*
