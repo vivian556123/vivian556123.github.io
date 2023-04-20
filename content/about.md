@@ -66,13 +66,16 @@ My broader interests include emerging technologies and evolving applications tha
 
 #### 公司经历
 
++ 2023.02-now **研究实习生**, 技术风险与效能部, 阿里巴巴 
+
+
 + 2022.02-2022.05 **研究实习生**, [系统创新组](https://www.microsoft.com/en-us/research/group/systems-innovation/), 微软亚洲研究院  
 
     <!-- I worked on power-aware VM management. Per-VM power modeling, power-aware live migration,  -->
 
-+ 2021.07-2021.10 **研究实习生**, [算法创新实验室](https://www.huaweicloud.com/lab/algorithm/about.html), 华为
+<!-- + 2021.07-2021.10 **研究实习生**, [算法创新实验室](https://www.huaweicloud.com/lab/algorithm/about.html), 华为 
 
-    <!-- I worded on  -->
+     I worded on  -->
 
 <!-- + 2020.07-2020.09 **后台开发实习生**, [优图实验室](https://cloud.tencent.com/developer/column/1510), 腾讯
 
@@ -110,6 +113,6 @@ My broader interests include emerging technologies and evolving applications tha
 
 + [计算机科学与工程系](https://www.cs.sjtu.edu.cn/)
 
-+ [李超教授](https://www.cs.sjtu.edu.cn/~lichao/index.html) （导师） 上海交通大学计算机科学与工程系长聘副教授
++ [李超教授](https://www.cs.sjtu.edu.cn/~lichao/index.html) （导师） 上海交通大学计算机科学与工程系教授
 
 

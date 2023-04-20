@@ -9,7 +9,7 @@ title = "Xinkai Wang"
 Hi, I am Xinkai Wang. 
 Currently, I am a second-year Ph.D. student in Department of Computer Science and Engineering, Shanghai Jiao Tong University.
 I am honored to be guided by [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/index.html) in [Sustainable Architecture and Infrastructure Lab](https://www.cs.sjtu.edu.cn/sail/) (SAIL).
-My research interests includes datacenter optimization and cloud-native applications. I am currently working on enhancing architectural observability of datacenters in Alibaba.
+My research interests includes datacenter optimization and cloud-native applications. I am currently working on enhancing architectural observability of datacenters.
 
 ---
 
@@ -27,7 +27,7 @@ My broader interests include emerging technologies and evolving applications tha
 
 ## Education
 
-+ 2021.09-2026.06 (Expected) **Ph.D. Student** in Computer Science
++ 2021.09-2026.06 (Expected) **Ph.D. Candidate** in Computer Science
     
     Department of Computer Science and Engineering
     
@@ -75,14 +75,14 @@ My broader interests include emerging technologies and evolving applications tha
 
 #### Industrial Experiences
 
-+ 2023.02-Present **Research Intern**, TRE, Alibaba
++ 2023.02-Present **Research Intern**, TRE Group, Alibaba
 + 2022.02-2022.05 **Research Intern**, [Systems Innovation Group](https://www.microsoft.com/en-us/research/group/systems-innovation/), MSRA   
 
     <!-- I worked on power-aware VM management. Per-VM power modeling, power-aware live migration,  -->
 
-+ 2021.07-2021.10 **Research Intern**, [Algorithm Innovation Lab](https://www.huaweicloud.com/lab/algorithm/about.html), Huawei
+<!-- + 2021.07-2021.10 **Research Intern**, [Algorithm Innovation Lab](https://www.huaweicloud.com/lab/algorithm/about.html), Huawei
 
-    <!-- I worded on  -->
+     I worded on  -->
 
 <!-- + 2020.07-2020.09 **Software Engineering Intern**, [Youtu Lab](https://cloud.tencent.com/developer/column/1510), Tencent
 
@@ -120,4 +120,4 @@ Tutors of the Freshmen of CSE Department
 
 + [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/en/)
 
-+ [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/index.html) (Advisor) Associate Professor in the School of Electronic Information and Electrical Engineering – Shanghai Jiao Tong University
++ [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/index.html) (Advisor) Professor in the School of Electronic Information and Electrical Engineering – Shanghai Jiao Tong University

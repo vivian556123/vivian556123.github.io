@@ -11,7 +11,7 @@ title = "Publication"
 
 [C2] Lu Zhang, Chao Li, **Xinkai Wang**, Weiqi Feng, Zheng Yu, Quan Chen, Jingwen Leng, Minyi Guo, Pu Yang, and Shang Yue “FIRST: Exploiting the Multi-Dimensional Attributes of Functions for Power-Aware Serverless Computing”. International Parallel and Distributed Processing Symposium (IPDPS), May. 2023
 
-[[Paper]] [[Slide]]
+<!-- [[Paper]] [[Slide]] -->
 
 <!-- ### Journal
 [J1] TBD -->
