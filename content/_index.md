@@ -14,8 +14,8 @@ My research interests includes speech and music generation.
 ---
 
 ## News
-+ [2023.09] One paper is accepted by [ICASSP2023 2023](https://2023.ieeeicassp.org/)
-+ [2022.12] One paper is accepted by [INTERSPEECH 2022](https://www.interspeech2022.org/)
++ [2022.12] One paper is accepted by [ICASSP2023 2023](https://2023.ieeeicassp.org/)
++ [2022.06] One paper is accepted by [INTERSPEECH 2022](https://www.interspeech2022.org/)
 
 ---
 
@@ -79,7 +79,7 @@ My broader interests include emerging technologies and evolving applications tha
 
 ## Selected Publications 
 
-+ **Leying Zhang**, , Zhengyang Chen and Yanmin Qian. “Adaptive Large Margin Fine-tuning for Speaker Verification”. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), June. 2023   [[Paper](//leying_icassp2023.pdf)]
++ **Leying Zhang**, , Zhengyang Chen and Yanmin Qian. “Adaptive Large Margin Fine-tuning for Speaker Verification”. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), June. 2023   [[Paper](/leying_icassp2023.pdf)]
 <!-- [[Paper](/xinkai_exploring_efficient_ipdps2022.pdf)] -->
 
 

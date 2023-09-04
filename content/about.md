@@ -4,15 +4,15 @@ title = "王鑫凯"
 
 <font size=5>欢迎光临！</font>
 
-{{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
+{{< figure class="avatar" src="/avatar_carre.jpg" alt="avatar">}}
 
 我目前是一年级博士研究生，就读于上海交通大学计算机科学与工程系，导师是钱彦旻教授。我的研究兴趣是语音合成、音乐合成、说话人识别等。
 
 ---
 
 ## 新闻
-+ [2023.09] 一篇文章被 [ICASSP2023 2023](https://2023.ieeeicassp.org/) 接收
-+ [2022.12] 一篇文章被 [INTERSPEECH 2022](https://www.interspeech2022.org/) 接收
++ [2022.12] 一篇文章被 [ICASSP2023 2023](https://2023.ieeeicassp.org/) 接收
++ [2022.06] 一篇文章被 [INTERSPEECH 2022](https://www.interspeech2022.org/) 接收
 ---
 
 <!-- ## Research Interest
@@ -65,7 +65,7 @@ My broader interests include emerging technologies and evolving applications tha
 ## 论文成果 
 
 
-+ **Leying Zhang**, , Zhengyang Chen and Yanmin Qian. “Adaptive Large Margin Fine-tuning for Speaker Verification”. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), June. 2023   [[Paper](//leying_icassp2023.pdf)]
++ **Leying Zhang**, , Zhengyang Chen and Yanmin Qian. “Adaptive Large Margin Fine-tuning for Speaker Verification”. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), June. 2023   [[Paper](/leying_icassp2023.pdf)]
 <!-- [[Paper](/xinkai_exploring_efficient_ipdps2022.pdf)] -->
 
 

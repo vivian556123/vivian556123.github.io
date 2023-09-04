@@ -5,7 +5,7 @@ title = "Publication"
 ## Publications 
 
 ### Conference
-[C1]   **Leying Zhang**, , Zhengyang Chen and Yanmin Qian. “Adaptive Large Margin Fine-tuning for Speaker Verification”. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), June. 2023   [[Paper](//leying_icassp2023.pdf)]
+[C1]   **Leying Zhang**, , Zhengyang Chen and Yanmin Qian. “Adaptive Large Margin Fine-tuning for Speaker Verification”. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), June. 2023   [[Paper](/leying_icassp2023.pdf)]
 <!-- [[Paper](/xinkai_exploring_efficient_ipdps2022.pdf)] -->
 
 
