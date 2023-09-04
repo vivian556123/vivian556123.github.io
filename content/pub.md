@@ -5,11 +5,18 @@ title = "Publication"
 ## Publications 
 
 ### Conference
-[C1] **Xinkai Wang**, Chao Li, Lu Zhang, Xiaofeng Hou, Quan Chen, and Minyi Guo “Exploring Efficient Microservice Level Parallelism”. International Parallel and Distributed Processing Symposium (IPDPS), May. 2022
+[C1] **Xinkai Wang**, Hao He, Yuancheng Li, Chao Li, Xiaofeng Hou, Jing Wang, Quan Chen, Jingwen Leng, Minyi Guo, and Leibo Wang “Not All Resources are Visible: Exploiting Fragmented Shadow Resources in Shared-State Scheduler Architecture”. ACM Symposium on Cloud Computing (SoCC), Oct. 2023
 
-[[Paper](/xinkai_exploring_efficient_ipdps2022.pdf)] [[Slide](/ipdps22_session7_xinkai.pdf)]
+<!-- [[Paper](/xinkai_exploring_efficient_ipdps2022.pdf)] [[Slide](/ipdps22_session7_xinkai.pdf)] -->
 
-[C2] Lu Zhang, Chao Li, **Xinkai Wang**, Weiqi Feng, Zheng Yu, Quan Chen, Jingwen Leng, Minyi Guo, Pu Yang, and Shang Yue “FIRST: Exploiting the Multi-Dimensional Attributes of Functions for Power-Aware Serverless Computing”. International Parallel and Distributed Processing Symposium (IPDPS), May. 2023
+[C2] **Xinkai Wang**, Chao Li, Lu Zhang, Xiaofeng Hou, Quan Chen, and Minyi Guo “Exploring Efficient Microservice Level Parallelism”. International Parallel and Distributed Processing Symposium (IPDPS), May. 2022
+
+[[Paper](/xinkai_exploring_efficient_ipdps2022.pdf)] [[Slide](/xinkai_exploring_efficient_ipdps2022_slides.pdf)]
+
+[C3] Lu Zhang, Chao Li, **Xinkai Wang**, Weiqi Feng, Zheng Yu, Quan Chen, Jingwen Leng, Minyi Guo, Pu Yang, and Shang Yue “FIRST: Exploiting the Multi-Dimensional Attributes of Functions for Power-Aware Serverless Computing”. International Parallel and Distributed Processing Symposium (IPDPS), May. 2023
+
+[[Paper](/luzhang_first_exploiting_ipdps2023.pdf)] [[Slide](/luzhang_first_exploiting_ipdps2023_slides.pdf)]
+
 
 <!-- [[Paper]] [[Slide]] -->
 

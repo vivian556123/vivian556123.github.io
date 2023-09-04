@@ -41,9 +41,8 @@ China</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wang-xinkai.github.io/pub/</guid>
-      <description>Publications Conference [C1] Xinkai Wang, Chao Li, Lu Zhang, Xiaofeng Hou, Quan Chen, and Minyi Guo “Exploring Efficient Microservice Level Parallelism”. International Parallel and Distributed Processing Symposium (IPDPS), May. 2022
-[Paper] [Slide]
-[C2] Lu Zhang, Chao Li, Xinkai Wang, Weiqi Feng, Zheng Yu, Quan Chen, Jingwen Leng, Minyi Guo, Pu Yang, and Shang Yue “FIRST: Exploiting the Multi-Dimensional Attributes of Functions for Power-Aware Serverless Computing”. International Parallel and Distributed Processing Symposium (IPDPS), May.</description>
+      <description>Publications Conference [C1] Xinkai Wang, Hao He, Yuancheng Li, Chao Li, Xiaofeng Hou, Jing Wang, Quan Chen, Jingwen Leng, Minyi Guo, and Leibo Wang “Not All Resources are Visible: Exploiting Fragmented Shadow Resources in Shared-State Scheduler Architecture”. ACM Symposium on Cloud Computing (SoCC), Oct. 2023
+[C2] Xinkai Wang, Chao Li, Lu Zhang, Xiaofeng Hou, Quan Chen, and Minyi Guo “Exploring Efficient Microservice Level Parallelism”. International Parallel and Distributed Processing Symposium (IPDPS), May.</description>
     </item>
     
     <item>
@@ -54,17 +53,14 @@ China</description>
       <guid>https://wang-xinkai.github.io/about/</guid>
       <description>欢迎光临！
 我目前是二年级博士研究生，就读于上海交通大学计算机科学与工程系，导师是李超教授，在可持续计算架构实验室开展科研工作。我的研究兴趣是数据中心和云原生应用的体系结构优化。
-新闻 [2022.12] 一篇文章被IPDPS 2023接收 [2021.12] 一篇文章被IPDPS 2022接收 教育经历 2021.09-2026.06 博士研究生 计算机科学与技术
-计算机科学与工程系，上海交通大学
+新闻 [2023.09] 一篇文章被SoCC 2023接收 [2022.12] 一篇文章被IPDPS 2023接收 [2021.12] 一篇文章被IPDPS 2022接收 教育经历 2021.09-2026.06 博士研究生 计算机科学与技术
+计算机科学与工程系，导师：李超教授，上海交通大学
 2017.09-2021.06 学士 计算机科学与技术
-计算机科学与工程系，上海交通大学
-2017.09-2021.06 学士 致远工科荣誉计划
-致远学院，上海交通大学
-部分荣誉 杨元庆本科生卓越奖学金, 上海交大计算机科学与工程系, 2021
-优秀毕业生, 上海交通大学, 2021
-A等优秀奖学金 上海交通大学, 2020
-致远荣誉奖学金 上海交通大学, 2020
-论文成果 Xinkai Wang, Chao Li, Lu Zhang, Xiaofeng Hou, Quan Chen, and Minyi Guo “Exploring Efficient Microservice Level Parallelism”. International Parallel and Distributed Processing Symposium (IPDPS), May. 2022 [Paper] 过往经历 公司经历 2023.02-now 研究实习生, 技术风险与效能部, 阿里巴巴</description>
+计算机科学与工程系，致远工科荣誉计划，上海交通大学
+荣誉奖励 IPDPS 2023 参会补助，2023
+上海交通大学优秀毕业生, 上海交通大学, 2021
+杨元庆本科生卓越奖学金，A等优秀奖学金，致远荣誉奖学金等 上海交通大学, 本科
+论文成果 Xinkai Wang, Hao He, Yuancheng Li, Chao Li, Xiaofeng Hou, Jing Wang, Quan Chen, Jingwen Leng, Minyi Guo, and Leibo Wang “Not All Resources are Visible: Exploiting Fragmented Shadow Resources in Shared-State Scheduler Architecture”. ACM Symposium on Cloud Computing (SoCC), Oct.</description>
     </item>
     
   </channel>

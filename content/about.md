@@ -11,6 +11,7 @@ title = "王鑫凯"
 ---
 
 ## 新闻
++ [2023.09] 一篇文章被[SoCC 2023](https://acmsocc.org/2023/)接收
 + [2022.12] 一篇文章被[IPDPS 2023](https://www.ipdps.org/)接收
 + [2021.12] 一篇文章被[IPDPS 2022](https://www.ipdps.org/)接收
 
@@ -26,37 +27,36 @@ My broader interests include emerging technologies and evolving applications tha
 
 + 2021.09-2026.06 **博士研究生** 计算机科学与技术
     
-    计算机科学与工程系，上海交通大学
+    计算机科学与工程系，导师：[李超教授](https://www.cs.sjtu.edu.cn/~lichao/cn/index-cn.html)，上海交通大学
 
 + 2017.09-2021.06 **学士** 计算机科学与技术
     
-    计算机科学与工程系，上海交通大学
+    计算机科学与工程系，*致远工科荣誉计划*，上海交通大学
 
-+ 2017.09-2021.06 **学士** 致远工科荣誉计划
+<!-- + 2017.09-2021.06 **学士** 致远工科荣誉计划
 
-    [致远学院](https://zhiyuan.sjtu.edu.cn/html/zhiyuan/)，上海交通大学
+    [致远学院](https://zhiyuan.sjtu.edu.cn/html/zhiyuan/)，上海交通大学 -->
 
 
 ---
 
-## 部分荣誉
+## 荣誉奖励
 
-+ **杨元庆本科生卓越奖学金**, 上海交大计算机科学与工程系, 2021
++ **IPDPS 2023 参会补助**，2023
 
-    <!-- *3 in CSE Department* -->
-+ **优秀毕业生**, 上海交通大学,  2021
++ **上海交通大学优秀毕业生**, 上海交通大学,  2021
 
     <!-- *Top 15% in SJTU Bachelors*, -->
-+ **A等优秀奖学金** 上海交通大学,  2020
++ **杨元庆本科生卓越奖学金，A等优秀奖学金，致远荣誉奖学金等** 上海交通大学, 本科
 
     <!-- *1st in CSE Department*, -->
-+ **致远荣誉奖学金** 上海交通大学,  2020
-
-    <!-- *Top 5% in All Engineering Departments*, -->
 
 ---
 
 ## 论文成果 
+
++ **Xinkai Wang**, Hao He, Yuancheng Li, Chao Li, Xiaofeng Hou, Jing Wang, Quan Chen, Jingwen Leng, Minyi Guo, and Leibo Wang  “Not All Resources are Visible: Exploiting Fragmented Shadow Resources in Shared-State Scheduler Architecture”. ACM Symposium on Cloud Computing (SoCC), Oct. 2023  
+<!-- [[Paper](/xinkai_exploring_efficient_ipdps2022.pdf)] -->
 
 + **Xinkai Wang**, Chao Li, Lu Zhang, Xiaofeng Hou, Quan Chen, and Minyi Guo “Exploring Efficient Microservice Level Parallelism”. International Parallel and Distributed Processing Symposium (IPDPS), May. 2022  [[Paper](/xinkai_exploring_efficient_ipdps2022.pdf)]
 
@@ -66,7 +66,7 @@ My broader interests include emerging technologies and evolving applications tha
 
 #### 公司经历
 
-+ 2023.02-now **研究实习生**, 技术风险与效能部, 阿里巴巴 
++ 2023.02-2023.08 **研究实习生**, 技术风险与效能部, 阿里巴巴 
 
 
 + 2022.02-2022.05 **研究实习生**, [系统创新组](https://www.microsoft.com/en-us/research/group/systems-innovation/), 微软亚洲研究院  
