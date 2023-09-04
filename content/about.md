@@ -65,9 +65,7 @@ My broader interests include emerging technologies and evolving applications tha
 ## 论文成果 
 
 
-+ **Leying Zhang**, , Zhengyang Chen and Yanmin Qian. “Adaptive Large Margin Fine-tuning for Speaker Verification”. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), June. 2023   [[Paper](/leying_icassp2023.pdf)]
-<!-- [[Paper](/xinkai_exploring_efficient_ipdps2022.pdf)] -->
-
++ **Leying Zhang**, , Zhengyang Chen and Yanmin Qian. “Adaptive Large Margin Fine-tuning for Speaker Verification”. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), June. 2023 [[Paper](/leying_icassp2023.pdf)]
 
 + **Leying Zhang**, Zhengyang Chen* and Yanmin Qian. “Enroll-Aware Attentive Statistics Pooling for Target Speaker Veriﬁcation ”. 23rd Annual Conference of the International Speech Communication Association (InterSpeech), Sep. 2022 [[Paper](/lyz15-zhang-interspeech22.pdf)]
 
