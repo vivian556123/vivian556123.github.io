@@ -31,7 +31,7 @@ My broader interests include emerging technologies and evolving applications tha
 
 巴黎卓越工程师学院，导师：钱彦旻教授，上海交通大学
 
-+ 2021.09-2022.03 **交换** 数据科学和图像处理
++ 2021.09-2022.03 **交换生** 数据科学和图像处理
 
 法国巴黎高等电信学院，巴黎综合理工大学
 

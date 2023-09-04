@@ -27,7 +27,7 @@ My broader interests include emerging technologies and evolving applications tha
 
 ## Education
 
-+ 2023.09-2027.06 (Expected) **Ph.D. Candidate** in Computer Science
++ 2023.09-2027.06 (Expected) **Ph.D. Candidate in Computer Science**
         
     Department of Computer Science and Engineering
 
@@ -35,7 +35,7 @@ My broader interests include emerging technologies and evolving applications tha
 
     Shanghai Jiao Tong University, China 
 
-+ 2021.09-2023.06 **M.Sc** in Electronic Engineering
++ 2021.09-2023.06 **M.Sc in Electronic Engineering** 
     
     SJTU Paris Elite Institute of Technology
 
@@ -43,11 +43,11 @@ My broader interests include emerging technologies and evolving applications tha
 
     Shanghai Jiao Tong University, China
 
-+ 2021.09-2022.03 **M.Sc** in Data Science and Image Processing
++ 2021.09-2022.03 **Exchange Student in Data Science and Image Processing**
         
     Institut Polytechnique de Paris-TELECOM PARIS
         
-+ 2017.09-2021.06 **B.S.** in Information Engineering and French 
++ 2017.09-2021.06 **B.S. in Information Engineering and French**
     
     SJTU Paris Elite Institute of Technology
 
