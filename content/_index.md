@@ -68,7 +68,7 @@ My broader interests include emerging technologies and evolving applications tha
 
 + **Outstanding Graduate**, Shanghai Jiao Tong University,  2023
 
-+ **INTERSPEECH 2023 Student Travel Grant**, 2021
++ **INTERSPEECH Student Travel Grant**, 2021
 
     <!-- *Top 15% in SJTU Bachelors*, -->
 + **Outstanding Graduate of Shanghai, Guanghua Scholarship, Second-class Scholarship etc**, Shanghai Jiao Tong University,  Undergraduate
