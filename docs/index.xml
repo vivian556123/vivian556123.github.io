@@ -1,66 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xinkai Wang</title>
-    <link>https://wang-xinkai.github.io/</link>
-    <description>Recent content on Xinkai Wang</description>
+    <title>Leying Zhang</title>
+    <link>https://vivian556123.github.io/</link>
+    <description>Recent content on Leying Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://wang-xinkai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://vivian556123.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blogs</title>
-      <link>https://wang-xinkai.github.io/blog/</link>
+      <link>https://vivian556123.github.io/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wang-xinkai.github.io/blog/</guid>
+      <guid>https://vivian556123.github.io/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://wang-xinkai.github.io/contact/</link>
+      <link>https://vivian556123.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wang-xinkai.github.io/contact/</guid>
-      <description>Email: unbreakablewxk@sjtu.edu.cn Phone: +86-15201967357 Github Google Scholar Mailing Address 800 Dongchuan RD. Minhang District,
+      <guid>https://vivian556123.github.io/contact/</guid>
+      <description>Email: zhangleying@sjtu.edu.cn Phone: +86-18621098717 Github Google Scholar Mailing Address 800 Dongchuan RD. Minhang District,
 Shanghai,
 China</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://wang-xinkai.github.io/project/</link>
+      <link>https://vivian556123.github.io/project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wang-xinkai.github.io/project/</guid>
+      <guid>https://vivian556123.github.io/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publication</title>
-      <link>https://wang-xinkai.github.io/pub/</link>
+      <link>https://vivian556123.github.io/pub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wang-xinkai.github.io/pub/</guid>
-      <description>Publications Conference [C1] Xinkai Wang, Hao He, Yuancheng Li, Chao Li, Xiaofeng Hou, Jing Wang, Quan Chen, Jingwen Leng, Minyi Guo, and Leibo Wang “Not All Resources are Visible: Exploiting Fragmented Shadow Resources in Shared-State Scheduler Architecture”. ACM Symposium on Cloud Computing (SoCC), Oct. 2023
-[C2] Xinkai Wang, Chao Li, Lu Zhang, Xiaofeng Hou, Quan Chen, and Minyi Guo “Exploring Efficient Microservice Level Parallelism”. International Parallel and Distributed Processing Symposium (IPDPS), May.</description>
+      <guid>https://vivian556123.github.io/pub/</guid>
+      <description>Publications Conference [C1] Leying Zhang, , Zhengyang Chen and Yanmin Qian. “Adaptive Large Margin Fine-tuning for Speaker Verification”. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), June. 2023 [Paper]
+[C2] Leying Zhang, Zhengyang Chen* and Yanmin Qian. “Enroll-Aware Attentive Statistics Pooling for Target Speaker Veriﬁcation ”. 23rd Annual Conference of the International Speech Communication Association (InterSpeech), Sep. 2022 [Paper]
+[C3] Leying Zhang, Zhengyang Chen and Yanmin Qian. “Knowledge Distillation from Multi-Modality to Single-Modality for Person Veriﬁcation”.</description>
     </item>
     
     <item>
       <title>王鑫凯</title>
-      <link>https://wang-xinkai.github.io/about/</link>
+      <link>https://vivian556123.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wang-xinkai.github.io/about/</guid>
+      <guid>https://vivian556123.github.io/about/</guid>
       <description>欢迎光临！
-我目前是二年级博士研究生，就读于上海交通大学计算机科学与工程系，导师是李超教授，在可持续计算架构实验室开展科研工作。我的研究兴趣是数据中心和云原生应用的体系结构优化。
-新闻 [2023.09] 一篇文章被SoCC 2023接收 [2022.12] 一篇文章被IPDPS 2023接收 [2021.12] 一篇文章被IPDPS 2022接收 教育经历 2021.09-2026.06 博士研究生 计算机科学与技术
-计算机科学与工程系，导师：李超教授，上海交通大学
-2017.09-2021.06 学士 计算机科学与技术
-计算机科学与工程系，致远工科荣誉计划，上海交通大学
-荣誉奖励 IPDPS 2023 参会补助，2023
-上海交通大学优秀毕业生, 上海交通大学, 2021
-杨元庆本科生卓越奖学金，A等优秀奖学金，致远荣誉奖学金等 上海交通大学, 本科
-论文成果 Xinkai Wang, Hao He, Yuancheng Li, Chao Li, Xiaofeng Hou, Jing Wang, Quan Chen, Jingwen Leng, Minyi Guo, and Leibo Wang “Not All Resources are Visible: Exploiting Fragmented Shadow Resources in Shared-State Scheduler Architecture”. ACM Symposium on Cloud Computing (SoCC), Oct.</description>
+我目前是一年级博士研究生，就读于上海交通大学计算机科学与工程系，导师是钱彦旻教授。我的研究兴趣是语音合成、音乐合成、说话人识别等。
+新闻 [2023.09] 一篇文章被 ICASSP2023 2023 接收 [2022.12] 一篇文章被 INTERSPEECH 2022 接收 教育经历 2023.09-2027.06 博士研究生 计算机科学与技术
+电子信息与电气工程学院，导师：钱彦旻教授，上海交通大学
+2021.09-2023.06 硕士研究生 电子信息
+巴黎卓越工程师学院，导师：钱彦旻教授，上海交通大学
+2021.09-2022.03 交换 数据科学和图像处理 法国巴黎高等电信学院，巴黎综合理工大学
+2017.09-2021.06 学士 信息工程，法语
+巴黎卓越工程师学院，上海交通大学
+荣誉奖励 国家奖学金, 教育部, 2023
+上海交通大学优秀毕业生, 上海交通大学, 2023
+INTERSPEECH 2021参会补助，2023
+上海市优秀毕业生，光华奖学金，B等优秀奖学金等 上海交通大学, 本科
+论文成果 Leying Zhang, , Zhengyang Chen and Yanmin Qian. “Adaptive Large Margin Fine-tuning for Speaker Verification”. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), June. 2023 [Paper] Leying Zhang, Zhengyang Chen* and Yanmin Qian.</description>
     </item>
     
   </channel>

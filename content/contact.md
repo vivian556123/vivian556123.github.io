@@ -2,10 +2,10 @@
 title = "Contact"
 +++
 
-* Email: [unbreakablewxk@sjtu.edu.cn](mailto:unbreakablewxk@sjtu.edu.cn)
-* Phone: [+86-15201967357](tel:+86-15201967357)
-* [Github](https://github.com/Wang-Xinkai)
-* [Google Scholar](https://scholar.google.com/citations?user=wunDE7MAAAAJ&hl=zh-CN)
+* Email: [zhangleying@sjtu.edu.cn](mailto:zhangleying@sjtu.edu.cn)
+* Phone: [+86-18621098717](tel:+86-18621098717)
+* [Github](https://github.com/vivian556123)
+* [Google Scholar](https://scholar.google.com/citations?user=Futd_gYAAAAJ&hl=en)
 
 ---
 

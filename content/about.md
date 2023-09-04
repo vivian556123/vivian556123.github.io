@@ -4,17 +4,15 @@ title = "王鑫凯"
 
 <font size=5>欢迎光临！</font>
 
-{{< figure class="avatar" src="/photo.jpg" alt="avatar">}}
+{{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 
-我目前是二年级博士研究生，就读于上海交通大学计算机科学与工程系，导师是[李超教授](https://www.cs.sjtu.edu.cn/~lichao/cn/index-cn.html)，在[可持续计算架构实验室](https://www.cs.sjtu.edu.cn/sail/index-cn.html)开展科研工作。我的研究兴趣是数据中心和云原生应用的体系结构优化。
+我目前是一年级博士研究生，就读于上海交通大学计算机科学与工程系，导师是钱彦旻教授。我的研究兴趣是语音合成、音乐合成、说话人识别等。
 
 ---
 
 ## 新闻
-+ [2023.09] 一篇文章被[SoCC 2023](https://acmsocc.org/2023/)接收
-+ [2022.12] 一篇文章被[IPDPS 2023](https://www.ipdps.org/)接收
-+ [2021.12] 一篇文章被[IPDPS 2022](https://www.ipdps.org/)接收
-
++ [2023.09] 一篇文章被 [ICASSP2023 2023](https://2023.ieeeicassp.org/) 接收
++ [2022.12] 一篇文章被 [INTERSPEECH 2022](https://www.interspeech2022.org/) 接收
 ---
 
 <!-- ## Research Interest
@@ -25,13 +23,22 @@ My broader interests include emerging technologies and evolving applications tha
 
 ## 教育经历
 
-+ 2021.09-2026.06 **博士研究生** 计算机科学与技术
++ 2023.09-2027.06 **博士研究生** 计算机科学与技术
     
-    计算机科学与工程系，导师：[李超教授](https://www.cs.sjtu.edu.cn/~lichao/cn/index-cn.html)，上海交通大学
+    电子信息与电气工程学院，导师：钱彦旻教授，上海交通大学
 
-+ 2017.09-2021.06 **学士** 计算机科学与技术
++ 2021.09-2023.06 **硕士研究生** 电子信息
+
+巴黎卓越工程师学院，导师：钱彦旻教授，上海交通大学
+
++ 2021.09-2022.03 **交换** 数据科学和图像处理
+
+法国巴黎高等电信学院，巴黎综合理工大学
+
+
++ 2017.09-2021.06 **学士** 信息工程，法语
     
-    计算机科学与工程系，*致远工科荣誉计划*，上海交通大学
+    巴黎卓越工程师学院，上海交通大学
 
 <!-- + 2017.09-2021.06 **学士** 致远工科荣誉计划
 
@@ -42,12 +49,14 @@ My broader interests include emerging technologies and evolving applications tha
 
 ## 荣誉奖励
 
-+ **IPDPS 2023 参会补助**，2023
++ **国家奖学金**, 教育部,  2023
 
-+ **上海交通大学优秀毕业生**, 上海交通大学,  2021
++ **上海交通大学优秀毕业生**, 上海交通大学,  2023
+
++ **INTERSPEECH 2021参会补助**，2023
 
     <!-- *Top 15% in SJTU Bachelors*, -->
-+ **杨元庆本科生卓越奖学金，A等优秀奖学金，致远荣誉奖学金等** 上海交通大学, 本科
++ **上海市优秀毕业生，光华奖学金，B等优秀奖学金等** 上海交通大学, 本科
 
     <!-- *1st in CSE Department*, -->
 
@@ -55,21 +64,24 @@ My broader interests include emerging technologies and evolving applications tha
 
 ## 论文成果 
 
-+ **Xinkai Wang**, Hao He, Yuancheng Li, Chao Li, Xiaofeng Hou, Jing Wang, Quan Chen, Jingwen Leng, Minyi Guo, and Leibo Wang  “Not All Resources are Visible: Exploiting Fragmented Shadow Resources in Shared-State Scheduler Architecture”. ACM Symposium on Cloud Computing (SoCC), Oct. 2023  
+
++ **Leying Zhang**, , Zhengyang Chen and Yanmin Qian. “Adaptive Large Margin Fine-tuning for Speaker Verification”. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), June. 2023   [[Paper](//leying_icassp2023.pdf)]
 <!-- [[Paper](/xinkai_exploring_efficient_ipdps2022.pdf)] -->
 
-+ **Xinkai Wang**, Chao Li, Lu Zhang, Xiaofeng Hou, Quan Chen, and Minyi Guo “Exploring Efficient Microservice Level Parallelism”. International Parallel and Distributed Processing Symposium (IPDPS), May. 2022  [[Paper](/xinkai_exploring_efficient_ipdps2022.pdf)]
 
++ **Leying Zhang**, Zhengyang Chen* and Yanmin Qian. “Enroll-Aware Attentive Statistics Pooling for Target Speaker Veriﬁcation ”. 23rd Annual Conference of the International Speech Communication Association (InterSpeech), Sep. 2022 [[Paper](/lyz15-zhang-interspeech22.pdf)]
+
++ **Leying Zhang**,  Zhengyang Chen and Yanmin Qian. “Knowledge Distillation from Multi-Modality to Single-Modality for Person Veriﬁcation”. 22nd Annual Conference of the International Speech Communication Association (InterSpeech), Sep. 2021 [[Paper](/zhangINTERSPEECH2021-.pdf)]
 ---
 
 ## 过往经历
 
 #### 公司经历
 
-+ 2023.02-2023.08 **研究实习生**, 技术风险与效能部, 阿里巴巴 
++ 2023.02-2023.08 **研究实习生**, 语音研究组, 微软雷德蒙德研究院 
 
 
-+ 2022.02-2022.05 **研究实习生**, [系统创新组](https://www.microsoft.com/en-us/research/group/systems-innovation/), 微软亚洲研究院  
++ 2022.02-2022.05 **研究实习生**, 机器学习组, 微软亚洲研究院  
 
     <!-- I worked on power-aware VM management. Per-VM power modeling, power-aware live migration,  -->
 
@@ -83,13 +95,9 @@ My broader interests include emerging technologies and evolving applications tha
 
 #### 教学经历
 
-+ 2021.09-2022.01 **助教**, CS236, 云计算技术
++ 2021.09-2022.01 **助教**, 机器学习
 
     <!-- I worked on project scheduling -->
-
-+ 2019.09-2019.12 **助教**, CS359, 计算机体系结构
-
-    <!-- I worked on homework arrangement -->
 
 ---
 
@@ -97,13 +105,11 @@ My broader interests include emerging technologies and evolving applications tha
 
 #### 学术活动
 
-同行评审: ISCA 2022, HPCA 2022, ASPLOS 2022, MICRO 2022
+同行评审: ICASSP2023
 
 #### 志愿服务
 
-志愿者，上海交大计算机系第二届杰出青年学者论坛
-
-兼职辅导员，计算机系2021级本科生思政
+兼职辅导员，巴黎卓越工程师学院2022级本科生思政
 
 ---
 
@@ -113,6 +119,5 @@ My broader interests include emerging technologies and evolving applications tha
 
 + [计算机科学与工程系](https://www.cs.sjtu.edu.cn/)
 
-+ [李超教授](https://www.cs.sjtu.edu.cn/~lichao/index.html) （导师） 上海交通大学计算机科学与工程系教授
 
 

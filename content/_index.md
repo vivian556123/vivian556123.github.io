@@ -1,22 +1,21 @@
 +++
-title = "Xinkai Wang"
+title = "Leying Zhang"
 +++
 
 <font size=5>Hello & Welcome!</font>
 
-{{< figure class="avatar" src="/photo.jpg" alt="avatar">}}
+{{< figure class="avatar" src="/avatar_carre.jpg" alt="avatar">}}
 
-Hi, I am Xinkai Wang. 
-Currently, I am a second-year Ph.D. student in Department of Computer Science and Engineering, Shanghai Jiao Tong University.
-I am honored to be guided by [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/index.html) in [Sustainable Architecture and Infrastructure Lab](https://www.cs.sjtu.edu.cn/sail/) (SAIL).
-My research interests includes datacenter optimization and cloud-native applications. I am currently working on enhancing architectural observability of datacenters.
+Hi, I am Leying Zhang. 
+Currently, I am a first-year Ph.D. student in Department of Computer Science and Engineering, Shanghai Jiao Tong University.
+I am honored to be guided by Prof. Yanmin Qian. 
+My research interests includes speech and music generation.
 
 ---
 
 ## News
-+ [2023.09] One paper is accepted by [SoCC 2023](https://acmsocc.org/2023/)
-+ [2022.12] One paper is accepted by [IPDPS 2023](https://www.ipdps.org/)
-+ [2021.12] One paper is accepted by [IPDPS 2022](https://www.ipdps.org/)
++ [2023.09] One paper is accepted by [ICASSP2023 2023](https://2023.ieeeicassp.org/)
++ [2022.12] One paper is accepted by [INTERSPEECH 2022](https://www.interspeech2022.org/)
 
 ---
 
@@ -28,20 +27,29 @@ My broader interests include emerging technologies and evolving applications tha
 
 ## Education
 
-+ 2021.09-2026.06 (Expected) **Ph.D. Candidate** in Computer Science
-    
++ 2023.09-2027.06 (Expected) **Ph.D. Candidate** in Computer Science
+        
     Department of Computer Science and Engineering
 
-    Supervised by Prof. [Chao Li](https://www.cs.sjtu.edu.cn/~lichao/index.html)
+    Supervised by Prof. Yanmin Qian 
+
+    Shanghai Jiao Tong University, China 
+
++ 2021.09-2023.06 **M.Sc** in Electronic Engineering
     
+    SJTU Paris Elite Institute of Technology
+
+    Supervised by Prof. Yanmin Qian 
+
     Shanghai Jiao Tong University, China
 
-+ 2017.09-2021.06 **B.S.** in Computer Science
++ 2021.09-2022.03 **M.Sc** in Data Science and Image Processing
+        
+    Institut Polytechnique de Paris-TELECOM PARIS
+        
++ 2017.09-2021.06 **B.S.** in Information Engineering and French 
     
-    Department of Computer Science and Engineering
-
-    *With Zhiyuan Honors Program of Engineering*
-
+    SJTU Paris Elite Institute of Technology
 
     Shanghai Jiao Tong University, China
 
@@ -56,12 +64,14 @@ My broader interests include emerging technologies and evolving applications tha
 
 ## Honors and Awards
 
-+ **IPDPS 2023 Student Travel Grant**, 2023
++ **National Scholarship**, China, 2023
 
-+ **Outstanding Graduate**, Shanghai Jiao Tong University,  2021
++ **Outstanding Graduate**, Shanghai Jiao Tong University,  2023
+
++ **INTERSPEECH 2023 Student Travel Grant**, 2021
 
     <!-- *Top 15% in SJTU Bachelors*, -->
-+ **Yang Yuan Qing Excellent Undergraduate Scholarship, First-class Scholarship, Zhiyuan Honor Scholarship, etc**, Shanghai Jiao Tong University,  Undergraduate
++ **Outstanding Graduate of Shanghai, Guanghua Scholarship, Second-class Scholarship etc**, Shanghai Jiao Tong University,  Undergraduate
 
     <!-- *1st in CSE Department*, -->
 
@@ -69,11 +79,13 @@ My broader interests include emerging technologies and evolving applications tha
 
 ## Selected Publications 
 
-+ **Xinkai Wang**, Hao He, Yuancheng Li, Chao Li, Xiaofeng Hou, Jing Wang, Quan Chen, Jingwen Leng, Minyi Guo, and Leibo Wang  “Not All Resources are Visible: Exploiting Fragmented Shadow Resources in Shared-State Scheduler Architecture”. ACM Symposium on Cloud Computing (SoCC), Oct. 2023  
++ **Leying Zhang**, , Zhengyang Chen and Yanmin Qian. “Adaptive Large Margin Fine-tuning for Speaker Verification”. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), June. 2023   [[Paper](//leying_icassp2023.pdf)]
 <!-- [[Paper](/xinkai_exploring_efficient_ipdps2022.pdf)] -->
 
 
-+ **Xinkai Wang**, Chao Li, Lu Zhang, Xiaofeng Hou, Quan Chen, and Minyi Guo “Exploring Efficient Microservice Level Parallelism”. International Parallel and Distributed Processing Symposium (IPDPS), May. 2022  [[Paper](/xinkai_exploring_efficient_ipdps2022.pdf)]
++ **Leying Zhang**, Zhengyang Chen* and Yanmin Qian. “Enroll-Aware Attentive Statistics Pooling for Target Speaker Veriﬁcation ”. 23rd Annual Conference of the International Speech Communication Association (InterSpeech), Sep. 2022 [[Paper](/lyz15-zhang-interspeech22.pdf)]
+
++ **Leying Zhang**,  Zhengyang Chen and Yanmin Qian. “Knowledge Distillation from Multi-Modality to Single-Modality for Person Veriﬁcation”. 22nd Annual Conference of the International Speech Communication Association (InterSpeech), Sep. 2021 [[Paper](/zhangINTERSPEECH2021-.pdf)]
 
 ---
 
@@ -81,8 +93,8 @@ My broader interests include emerging technologies and evolving applications tha
 
 #### Industrial Experiences
 
-+ 2023.02-2023.08 **Research Intern**, TRE Group, Alibaba
-+ 2022.02-2022.05 **Research Intern**, [Systems Innovation Group](https://www.microsoft.com/en-us/research/group/systems-innovation/), MSRA   
++ 2023.04-present **Research Intern**, Speech Research Team, Micrsoft Research Redmond
++ 2022.11-2023.03 **Research Intern**, Machine Learning Team, Micrsoft Research Asia   
 
     <!-- I worked on power-aware VM management. Per-VM power modeling, power-aware live migration,  -->
 
@@ -96,13 +108,9 @@ My broader interests include emerging technologies and evolving applications tha
 
 #### Teaching Experiences
 
-+ 2021.09-2022.01 **Teaching Assistant**, CS236, Cloud Computing Technology
-
++ 2021.09-2022.01 **Teaching Assistant**, Machine Learning
     <!-- I worked on project scheduling -->
 
-+ 2019.09-2019.12 **Teaching Assistant**, CS359, Computer Architecture
-
-    <!-- I worked on homework arrangement -->
 
 ---
 
@@ -110,13 +118,12 @@ My broader interests include emerging technologies and evolving applications tha
 
 #### Academic Services
 
-External Reviewer: ISCA 2022, HPCA 2022, ASPLOS 2022, MICRO 2022
+External Reviewer: ICASSP2023
 
 #### Volunteer Services
 
-Volunteer of the 2nd Excellent Young Scholar Forum of CSE Department
+Tutors of the Freshmen of SJTU Paris Elite Institute of Technology
 
-Tutors of the Freshmen of CSE Department
 
 ---
 
@@ -125,5 +132,5 @@ Tutors of the Freshmen of CSE Department
 + [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/)
 
 + [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/en/)
-
-+ [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/index.html) (Advisor) Professor in the School of Electronic Information and Electrical Engineering – Shanghai Jiao Tong University
+<!-- 
++ [Prof. Chao Li](https://www.cs.sjtu.edu.cn/~lichao/index.html) (Advisor) Professor in the School of Electronic Information and Electrical Engineering – Shanghai Jiao Tong University -->
