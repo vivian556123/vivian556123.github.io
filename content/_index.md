@@ -1,5 +1,6 @@
 +++
 title = "Leying Zhang"
+draft = false
 +++
 
 <font size=5>Hello & Welcome!</font>
@@ -7,23 +8,17 @@ title = "Leying Zhang"
 {{< figure class="avatar" src="/avatar_carre.jpg" alt="avatar">}}
 
 Hi, I am Leying Zhang. 
-Currently, I am a first-year Ph.D. student in Department of Computer Science and Engineering, Shanghai Jiao Tong University.
+Currently, I am a second-year Ph.D. student in Department of Computer Science and Engineering, Shanghai Jiao Tong University.
 I am honored to be guided by Prof. Yanmin Qian. 
-My research interests includes speech and music generation.
+My recent research interest is speech synthesis.
 
----
-
-## News
-+ [2022.12] One paper is accepted by [ICASSP2023 2023](https://2023.ieeeicassp.org/)
-+ [2022.06] One paper is accepted by [INTERSPEECH 2022](https://www.interspeech2022.org/)
-
----
 
 <!-- ## Research Interest
 
 My primary research interests include architectural design and system optimization to improve performance and energy efficiency of different-size computing systems including unmanned systems and cloud systems.
 
 My broader interests include emerging technologies and evolving applications that could ultimately lead to the next-generation green computers. -->
+---
 
 ## Education
 
@@ -63,6 +58,7 @@ My broader interests include emerging technologies and evolving applications tha
 ---
 
 ## Honors and Awards
++ **NeurIPS 2024 Scholar Award**, Canada, 2024
 
 + **National Scholarship**, China, 2023
 
@@ -80,6 +76,10 @@ My broader interests include emerging technologies and evolving applications tha
 ## Selected Publications 
 
 
+
++ **Leying Zhang**, Yao Qian, Long Zhou, Shujie Liu, Dongmei Wang, Xiaofei Wang, Midia Yousefi, Yanmin Qian, Jinyu Li, Lei He, Sheng Zhao, Michael Zeng. “CoVoMix: Advancing Zero-Shot Speech Generation for Human-like Multi-talker Conversations”. 38th Annual Conference on Neural Information Processing Systems(NeurIPS), Dec. 2024  [[Paper](/covomix-camera-ready.pdf)]
+
+
 + **Leying Zhang**, , Zhengyang Chen and Yanmin Qian. “Adaptive Large Margin Fine-tuning for Speaker Verification”. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), June. 2023 [[Paper](/leying_icassp2023.pdf)]
 
 + **Leying Zhang**, Zhengyang Chen* and Yanmin Qian. “Enroll-Aware Attentive Statistics Pooling for Target Speaker Veriﬁcation ”. 23rd Annual Conference of the International Speech Communication Association (InterSpeech), Sep. 2022 [[Paper](/lyz15-zhang-interspeech22.pdf)]
@@ -91,7 +91,7 @@ My broader interests include emerging technologies and evolving applications tha
 ## Experiences
 
 #### Industrial Experiences
-
++ 2024.10-present **Research Intern**, Speech Research Team, Micrsoft Research Redmond
 + 2023.04-2024.03 **Research Intern**, Speech Research Team, Micrsoft Research Redmond
 + 2022.11-2023.03 **Research Intern**, Machine Learning Team, Micrsoft Research Asia   
 
@@ -117,7 +117,7 @@ My broader interests include emerging technologies and evolving applications tha
 
 #### Academic Services
 
-Reviewer: ICASSP, NeurIPS
+Reviewer: NeurIPS, ICLR, ICASSP, INTERSPEECH
 
 #### Volunteer Services
 

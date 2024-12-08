@@ -6,20 +6,9 @@ title = "张乐莹"
 
 {{< figure class="avatar" src="/avatar_carre.jpg" alt="avatar">}}
 
-我目前是一年级博士研究生，就读于上海交通大学计算机科学与工程系，导师是钱彦旻教授。我的研究兴趣是语音合成、音乐合成、说话人识别等。
+我目前是二年级博士研究生，就读于上海交通大学计算机科学与工程系，导师是钱彦旻教授。我的研究兴趣是语音合成、音乐合成、说话人识别等。
 
 ---
-
-## 新闻
-+ [2022.12] 一篇文章被 [ICASSP2023 2023](https://2023.ieeeicassp.org/) 接收
-+ [2022.06] 一篇文章被 [INTERSPEECH 2022](https://www.interspeech2022.org/) 接收
----
-
-<!-- ## Research Interest
-
-My primary research interests include architectural design and system optimization to improve performance and energy efficiency of different-size computing systems including unmanned systems and cloud systems.
-
-My broader interests include emerging technologies and evolving applications that could ultimately lead to the next-generation green computers. -->
 
 ## 教育经历
 
@@ -40,11 +29,6 @@ My broader interests include emerging technologies and evolving applications tha
     
     巴黎卓越工程师学院，上海交通大学
 
-<!-- + 2017.09-2021.06 **学士** 致远工科荣誉计划
-
-    [致远学院](https://zhiyuan.sjtu.edu.cn/html/zhiyuan/)，上海交通大学 -->
-
-
 ---
 
 ## 荣誉奖励
@@ -63,6 +47,8 @@ My broader interests include emerging technologies and evolving applications tha
 ---
 
 ## 论文成果 
++ **Leying Zhang**, Yao Qian, Long Zhou, Shujie Liu, Dongmei Wang, Xiaofei Wang, Midia Yousefi, Yanmin Qian, Jinyu Li, Lei He, Sheng Zhao, Michael Zeng. “CoVoMix: Advancing Zero-Shot Speech Generation for Human-like Multi-talker Conversations”. 38th Annual Conference on Neural Information Processing Systems(NeurIPS), Dec. 2024  [[Paper](/covomix-camera-ready.pdf)]
+
 
 + **Leying Zhang**, , Zhengyang Chen and Yanmin Qian. “Adaptive Large Margin Fine-tuning for Speaker Verification”. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), June. 2023 [[Paper](/leying_icassp2023.pdf)]
 

@@ -2,71 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leying Zhang</title>
-    <link>https://vivian556123.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Leying Zhang</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://vivian556123.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blogs</title>
-      <link>https://vivian556123.github.io/blog/</link>
+      <link>http://localhost:1313/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vivian556123.github.io/blog/</guid>
+      <guid>http://localhost:1313/blog/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Contact</title>
-      <link>https://vivian556123.github.io/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vivian556123.github.io/contact/</guid>
-      <description>Email: zhangleying@sjtu.edu.cn Phone: +86-18621098717 Github Google Scholar Mailing Address 800 Dongchuan RD. Minhang District,
-Shanghai,
-China</description>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:zhangleying@sjtu.edu.cn&#34;&gt;zhangleying@sjtu.edu.cn&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Phone: &lt;a href=&#34;tel:+86-18621098717&#34;&gt;+86-18621098717&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/vivian556123&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=Futd_gYAAAAJ&amp;amp;hl=en&#34;&gt;Google Scholar&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/leying-zhang-7b48401a5/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;mailing-address&#34;&gt;Mailing Address&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;800 Dongchuan RD. Minhang District,&lt;/p&gt;&#xA;&lt;p&gt;Shanghai,&lt;/p&gt;&#xA;&lt;p&gt;China&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
-    
     <item>
       <title>Projects</title>
-      <link>https://vivian556123.github.io/project/</link>
+      <link>http://localhost:1313/project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vivian556123.github.io/project/</guid>
+      <guid>http://localhost:1313/project/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Publication</title>
-      <link>https://vivian556123.github.io/pub/</link>
+      <link>http://localhost:1313/pub/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vivian556123.github.io/pub/</guid>
-      <description>Publications Conference [C1] Leying Zhang, , Zhengyang Chen and Yanmin Qian. “Adaptive Large Margin Fine-tuning for Speaker Verification”. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), June. 2023 [Paper]
-[C2] Leying Zhang, Zhengyang Chen* and Yanmin Qian. “Enroll-Aware Attentive Statistics Pooling for Target Speaker Veriﬁcation ”. 23rd Annual Conference of the International Speech Communication Association (InterSpeech), Sep. 2022 [Paper]
-[C3] Leying Zhang, Zhengyang Chen and Yanmin Qian. “Knowledge Distillation from Multi-Modality to Single-Modality for Person Veriﬁcation”.</description>
+      <guid>http://localhost:1313/pub/</guid>
+      <description>&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;&#xA;&lt;h3 id=&#34;conference&#34;&gt;Conference&lt;/h3&gt;&#xA;&lt;p&gt;[C1] &lt;strong&gt;Leying Zhang&lt;/strong&gt;, Yao Qian, Long Zhou, Shujie Liu, Dongmei Wang, Xiaofei Wang, Midia Yousefi, Yanmin Qian, Jinyu Li, Lei He, Sheng Zhao, Michael Zeng. “CoVoMix: Advancing Zero-Shot Speech Generation for Human-like Multi-talker Conversations”. 38th Annual Conference on Neural Information Processing Systems(NeurIPS), Dec. 2024  [&lt;a href=&#34;http://localhost:1313/covomix-camera-ready.pdf&#34;&gt;Paper&lt;/a&gt;]&lt;/p&gt;&#xA;&lt;p&gt;[C2] &lt;strong&gt;Leying Zhang&lt;/strong&gt;, Yao Qian, Linfeng Yu, Heming Wang, Hemin Yang, Shujie Liu, Long Zhou, Yanmin Qian. “DDTSE: Discriminative Diffusion Model for Target Speech Extraction”. IEEE Spoken Language Technology Workshop (SLT), Dec. 2024  [&lt;a href=&#34;http://localhost:1313/Leying_DDTSE_SLT2024.pdf&#34;&gt;Paper&lt;/a&gt;]&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>王鑫凯</title>
-      <link>https://vivian556123.github.io/about/</link>
+      <title>张乐莹</title>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vivian556123.github.io/about/</guid>
-      <description>欢迎光临！
-我目前是一年级博士研究生，就读于上海交通大学计算机科学与工程系，导师是钱彦旻教授。我的研究兴趣是语音合成、音乐合成、说话人识别等。
-新闻 [2022.12] 一篇文章被 ICASSP2023 2023 接收 [2022.06] 一篇文章被 INTERSPEECH 2022 接收 教育经历 2023.09-2027.06 博士研究生 计算机科学与技术
-电子信息与电气工程学院，导师：钱彦旻教授，上海交通大学
-2021.09-2023.06 硕士研究生 电子信息
-巴黎卓越工程师学院，导师：钱彦旻教授，上海交通大学
-2021.09-2022.03 交换生 数据科学和图像处理 法国巴黎高等电信学院，巴黎综合理工大学
-2017.09-2021.06 学士 信息工程，法语
-巴黎卓越工程师学院，上海交通大学
-荣誉奖励 国家奖学金, 教育部, 2023
-上海交通大学优秀毕业生, 上海交通大学, 2023
-INTERSPEECH 2021参会补助，2023
-上海市优秀毕业生，光华奖学金，B等优秀奖学金等 上海交通大学, 本科
-论文成果 Leying Zhang, , Zhengyang Chen and Yanmin Qian. “Adaptive Large Margin Fine-tuning for Speaker Verification”. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), June. 2023 [Paper]</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;font size=5&gt;欢迎光临！&lt;/font&gt;&lt;/p&gt;&#xA;&lt;figure class=&#34;avatar&#34;&gt;&lt;img src=&#34;http://localhost:1313/avatar_carre.jpg&#34;&#xA;    alt=&#34;avatar&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;我目前是二年级博士研究生，就读于上海交通大学计算机科学与工程系，导师是钱彦旻教授。我的研究兴趣是语音合成、音乐合成、说话人识别等。&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;教育经历&#34;&gt;教育经历&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;2023.09-2027.06 &lt;strong&gt;博士研究生&lt;/strong&gt; 计算机科学与技术&lt;/p&gt;&#xA;&lt;p&gt;电子信息与电气工程学院，导师：钱彦旻教授，上海交通大学&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;2021.09-2023.06 &lt;strong&gt;硕士研究生&lt;/strong&gt; 电子信息&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;巴黎卓越工程师学院，导师：钱彦旻教授，上海交通大学&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2021.09-2022.03 &lt;strong&gt;交换生&lt;/strong&gt; 数据科学和图像处理&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;法国巴黎高等电信学院，巴黎综合理工大学&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;2017.09-2021.06 &lt;strong&gt;学士&lt;/strong&gt; 信息工程，法语&lt;/p&gt;&#xA;&lt;p&gt;巴黎卓越工程师学院，上海交通大学&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;荣誉奖励&#34;&gt;荣誉奖励&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;国家奖学金&lt;/strong&gt;, 教育部,  2023&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;上海交通大学优秀毕业生&lt;/strong&gt;, 上海交通大学,  2023&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;INTERSPEECH 2021参会补助&lt;/strong&gt;，2023&lt;/p&gt;&#xA;  &lt;!-- *Top 15% in SJTU Bachelors*, --&gt;&#xD;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;上海市优秀毕业生，光华奖学金，B等优秀奖学金等&lt;/strong&gt; 上海交通大学, 本科&lt;/p&gt;&#xA;  &lt;!-- *1st in CSE Department*, --&gt;&#xD;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;论文成果&#34;&gt;论文成果&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Leying Zhang&lt;/strong&gt;, Yao Qian, Long Zhou, Shujie Liu, Dongmei Wang, Xiaofei Wang, Midia Yousefi, Yanmin Qian, Jinyu Li, Lei He, Sheng Zhao, Michael Zeng. “CoVoMix: Advancing Zero-Shot Speech Generation for Human-like Multi-talker Conversations”. 38th Annual Conference on Neural Information Processing Systems(NeurIPS), Dec. 2024  [&lt;a href=&#34;http://localhost:1313/covomix-camera-ready.pdf&#34;&gt;Paper&lt;/a&gt;]&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
