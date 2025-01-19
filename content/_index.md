@@ -12,7 +12,7 @@ Currently, I am a second-year Ph.D. student in Department of Computer Science an
 I am honored to be guided by Prof. Yanmin Qian. 
 My recent research interest is speech synthesis. 
 
-My latest resume is [Paper](/leying_englishcv_academic_250119.pdf)
+My latest resume is [here](/250119cv.pdf)
 
 <!-- ## Research Interest
 
