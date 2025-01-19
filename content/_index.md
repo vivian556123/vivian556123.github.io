@@ -10,8 +10,9 @@ draft = false
 Hi, I am Leying Zhang. 
 Currently, I am a second-year Ph.D. student in Department of Computer Science and Engineering, Shanghai Jiao Tong University.
 I am honored to be guided by Prof. Yanmin Qian. 
-My recent research interest is speech synthesis.
+My recent research interest is speech synthesis. 
 
+My latest resume is [Paper](/leying_englishcv_academic_250119.pdf)
 
 <!-- ## Research Interest
 
@@ -48,11 +49,6 @@ My broader interests include emerging technologies and evolving applications tha
 
     Shanghai Jiao Tong University, China
 
-<!-- + 2017.09-2021.06 **B.S.** in Zhiyuan Honors Program of Engineering
-
-    Zhiyuan College
-    
-    Shanghai Jiao Tong University, China -->
 
 
 ---
@@ -91,9 +87,8 @@ My broader interests include emerging technologies and evolving applications tha
 ## Experiences
 
 #### Industrial Experiences
-+ 2024.10-present **Research Intern**, Speech Research Team, Micrsoft Research Redmond
-+ 2023.04-2024.03 **Research Intern**, Speech Research Team, Micrsoft Research Redmond
-+ 2022.11-2023.03 **Research Intern**, Machine Learning Team, Micrsoft Research Asia   
++ 2023.04-2024.03 **Research Intern**, Speech Research Team, Microsoft
++ 2022.11-2023.03 **Research Intern**, Machine Learning Team, Microsoft 
 
     <!-- I worked on power-aware VM management. Per-VM power modeling, power-aware live migration,  -->
 
