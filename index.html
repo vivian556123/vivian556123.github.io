@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leying Zhang</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f5f5f5;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background-color: white;
+            box-shadow: 0 0 20px rgba(0,0,0,0.1);
+        }
+
+        header {
+            background: linear-gradient(135deg, #1e3a8a 0%, #334155 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+
+        .profile-section {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 30px;
+            flex-wrap: wrap;
+        }
+
+        .avatar {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            border: 4px solid white;
+            object-fit: cover;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+        }
+
+        .header-info h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .header-info p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+
+        .contact-info {
+            margin-top: 20px;
+            font-size: 0.95em;
+        }
+
+        .contact-info a {
+            color: white;
+            text-decoration: none;
+            border-bottom: 1px solid rgba(255,255,255,0.5);
+        }
+
+        .contact-info a:hover {
+            border-bottom: 1px solid white;
+        }
+
+        nav {
+            background-color: #2c3e50;
+            padding: 15px 40px;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 25px;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s;
+            white-space: nowrap;
+        }
+
+        nav a:hover {
+            color: #1e3a8a;
+        }
+
+        .cv-download {
+            background-color: #1e3a8a;
+            padding: 8px 15px;
+            border-radius: 5px;
+            margin-left: auto;
+        }
+
+        .cv-download:hover {
+            background-color: #334155;
+        }
+
+        main {
+            padding: 40px;
+        }
+
+        section {
+            margin-bottom: 50px;
+        }
+
+        h2 {
+            color: #2c3e50;
+            border-bottom: 3px solid #1e3a8a;
+            padding-bottom: 10px;
+            margin-bottom: 25px;
+            font-size: 1.8em;
+        }
+
+        h3 {
+            color: #34495e;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+
+        .education-item, .experience-item, .publication-item {
+            margin-bottom: 25px;
+            padding: 15px;
+            background-color: #fafafa;
+            border-radius: 5px;
+            border-left: 3px solid #1e3a8a;
+        }
+
+        .education-item h3, .experience-item h3 {
+            color: #1e3a8a;
+            margin-top: 0;
+        }
+
+        .degree-info {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            margin-bottom: 8px;
+        }
+
+        .date {
+            color: #7f8c8d;
+            font-style: italic;
+        }
+
+        .publication-item {
+            background-color: #fff;
+            border: 1px solid #e0e0e0;
+        }
+
+        .publication-item a {
+            color: #1e3a8a;
+            text-decoration: none;
+            transition: color 0.3s;
+        }
+
+        .publication-item a:hover {
+            color: #334155;
+            text-decoration: underline;
+        }
+
+        .pub-authors {
+            color: #555;
+            font-size: 0.95em;
+            margin-bottom: 5px;
+        }
+
+        .pub-venue {
+            color: #1e3a8a;
+            font-weight: 600;
+            font-size: 0.9em;
+        }
+
+        ul {
+            margin: 15px 0;
+            padding-left: 40px;
+        }
+
+        li {
+            margin-bottom: 10px;
+            line-height: 1.6;
+        }
+
+        .awards-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 15px;
+        }
+
+        .award-item {
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+            border-left: 3px solid #334155;
+        }
+
+        .award-item .year {
+            float: right;
+            color: #1e3a8a;
+            font-weight: bold;
+        }
+
+        footer {
+            background-color: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            margin-top: 40px;
+        }
+
+        @media (max-width: 768px) {
+            nav {
+                padding: 15px 20px;
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            
+            nav a {
+                display: block;
+                margin: 10px 0;
+            }
+            
+            .cv-download {
+                margin-left: 0;
+                margin-top: 10px;
+                align-self: flex-start;
+            }
+            
+            main {
+                padding: 20px;
+            }
+            
+            .header-info h1 {
+                font-size: 1.8em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="profile-section">
+                <img src="avatar.jpg" alt="Leying Zhang" class="avatar">
+                <div class="header-info">
+                    <h1>Leying Zhang</h1>
+                    <p>PhD Student in Computer Science and Engineering</p>
+                    <p>Shanghai Jiao Tong University</p>
+                    <div class="contact-info">
+                        <p>📧 <a href="mailto:zhangleying@sjtu.edu.cn">zhangleying@sjtu.edu.cn</a></p>
+                        <p>📱 (+86) 18621098717</p>
+                        <p>📍 3-520 SEIEE Building, Shanghai Jiao Tong University, Shanghai, China 200240</p>
+                        <p>🔗 <a href="https://scholar.google.com/citations?user=Futd_gYAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a> • <a href="https://www.linkedin.com/in/leying-zhang-7b48401a5/" target="_blank">LinkedIn</a></p>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <nav>
+            <a href="#about">About</a>
+            <a href="#education">Education</a>
+            <a href="#publications">Publications</a>
+            <a href="#experience">Experience</a>
+            <a href="#teaching">Teaching</a>
+            <a href="#awards">Awards</a>
+            <a href="#skills">Skills</a>
+            <a href="Leying_EnglishCV_academic.pdf" class="cv-download" download>📄 Download CV</a>
+        </nav>
+
+        <main>
+            <section id="about">
+                <h2>About Me</h2>
+                <p>I am a third-year PhD student in Computer Science and Engineering at Shanghai Jiao Tong University, supervised by Prof. Yanmin Qian. My research focuses on cutting-edge audio and speech technologies.</p>
+                
+                <p><strong>Research Interests:</strong> <strong>Text-to-Speech</strong> • <strong>Multi-modality</strong> • <strong>Audio Generation</strong> • <strong>Speaker Verification</strong></p>
+            </section>
+
+            <section id="education">
+                <h2>Education</h2>
+                
+                <div class="education-item">
+                    <div class="degree-info">
+                        <h3>PhD, Computer Science and Engineering</h3>
+                        <span class="date">Sep 2023 - Present</span>
+                    </div>
+                    <p><strong>Shanghai Jiao Tong University</strong></p>
+                    <p>Supervisor: Prof. Yanmin Qian</p>
+                </div>
+
+                <div class="education-item">
+                    <div class="degree-info">
+                        <h3>Master, Electronic Information</h3>
+                        <span class="date">Sep 2021 - Jun 2023</span>
+                    </div>
+                    <p><strong>Shanghai Jiao Tong University</strong></p>
+                    <p>Supervisor: Prof. Yanmin Qian</p>
+                </div>
+
+                <div class="education-item">
+                    <div class="degree-info">
+                        <h3>Exchange Student, Data Science and Image Processing</h3>
+                        <span class="date">Sep 2021 - Feb 2022</span>
+                    </div>
+                    <p><strong>Télécom Paris (Institut polytechnique de Paris)</strong></p>
+                </div>
+
+                <div class="education-item">
+                    <div class="degree-info">
+                        <h3>Bachelor of Information Engineering and French (Double Degree)</h3>
+                        <span class="date">Sep 2017 - Jun 2021</span>
+                    </div>
+                    <p><strong>Shanghai Jiao Tong University</strong></p>
+                </div>
+            </section>
+
+            <section id="publications">
+                <h2>Selected Publications</h2>
+
+                <div class="publication-item">
+                    <p class="pub-authors"><strong>Leying Zhang</strong>, Yao Qian, Xiaofei Wang, Manthan Thakker, Dongmei Wang, Jianwei Yu, Haibin Wu, Yuxuan Hu, Jinyu Li, Yanmin Qian, Sheng Zhao</p>
+                    <p>"CoVoMix2: Advancing Zero-Shot Dialogue Generation with Fully Non-Autoregressive Flow Matching"</p>
+                    <p class="pub-venue">NeurIPS, Dec. 2025 • <a href="https://openreview.net/pdf?id=0fq8vYOnxi" target="_blank">PDF</a></p>
+                </div>
+
+                <div class="publication-item">
+                    <p class="pub-authors"><strong>Leying Zhang</strong>, Wangyou Zhang, Zhengyang Chen, Yanmin Qian</p>
+                    <p>"Advanced Zero-Shot Text-to-Speech for Background Removal and Preservation with Controllable Masked Speech Prediction"</p>
+                    <p class="pub-venue">ICASSP, April 2025 • <a href="https://ieeexplore.ieee.org/document/10887658" target="_blank">PDF</a></p>
+                </div>
+
+                <div class="publication-item">
+                    <p class="pub-authors"><strong>Leying Zhang</strong>, Yao Qian, Long Zhou, Shujie Liu, Dongmei Wang, Xiaofei Wang, Midia Yousefi, Yanmin Qian, Jinyu Li, Lei He, Sheng Zhao, Michael Zeng</p>
+                    <p>"CoVoMix: Advancing Zero-Shot Speech Generation for Human-like Multi-talker Conversations"</p>
+                    <p class="pub-venue">NeurIPS, Dec. 2024 • <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/b5fd95d6b16d3172e307103a97f19e1b-Abstract-Conference.html" target="_blank">PDF</a></p>
+                </div>
+
+                <div class="publication-item">
+                    <p class="pub-authors"><strong>Leying Zhang</strong>, Yao Qian, Linfeng Yu, Heming Wang, Hemin Yang, Shujie Liu, Long Zhou, Yanmin Qian</p>
+                    <p>"DDTSE: Discriminative Diffusion Model for Target Speech Extraction"</p>
+                    <p class="pub-venue">SLT, Dec. 2024 • <a href="https://arxiv.org/html/2309.13874v2" target="_blank">PDF</a></p>
+                </div>
+
+                <div class="publication-item">
+                    <p class="pub-authors"><strong>Leying Zhang</strong>, Zhengyang Chen, Yanmin Qian</p>
+                    <p>"Adaptive Large Margin Fine-tuning for Speaker Verification"</p>
+                    <p class="pub-venue">ICASSP, June 2023</p>
+                </div>
+
+                <div class="publication-item">
+                    <p class="pub-authors"><strong>Leying Zhang*</strong>, Zhengyang Chen*, Yanmin Qian (* equal contribution)</p>
+                    <p>"Enroll-Aware Attentive Statistics Pooling for Target Speaker Verification"</p>
+                    <p class="pub-venue">InterSpeech, Sep. 2022</p>
+                </div>
+
+                <div class="publication-item">
+                    <p class="pub-authors"><strong>Leying Zhang</strong>, Zhengyang Chen, Yanmin Qian</p>
+                    <p>"Knowledge Distillation from Multi-Modality to Single-Modality for Person Verification"</p>
+                    <p class="pub-venue">InterSpeech, Sep. 2021</p>
+                </div>
+
+                <p style="margin-top: 20px;"><em>See CV for complete list of publications including collaborative works.</em></p>
+            </section>
+
+            <section id="experience">
+                <h2>Industry Experience</h2>
+
+                <div class="experience-item">
+                    <div class="degree-info">
+                        <h3>Research Intern - Meta Superintelligence Labs</h3>
+                        <span class="date">Oct 2025 - Present</span>
+                    </div>
+                    <p><strong>Location:</strong> New York, USA</p>
+                    <p><strong>Supervisor:</strong> Bowen Shi</p>
+                    <!--  <p><strong>Project:</strong> Audio Evaluation - Designed and implemented an efficient audio evaluation model.</p> -->
+                </div>
+
+                <div class="experience-item">
+                    <div class="degree-info">
+                        <h3>Research Intern - Microsoft Core AI</h3>
+                        <span class="date">Oct 2024 - Aug 2025</span>
+                    </div>
+                    <p><strong>Location:</strong> Remote</p>
+                    <p><strong>Supervisor:</strong> Yao Qian</p>
+                    <p><strong>Project:</strong> Text-to-Dialogue Generation - Designed and implemented a purely non-autoregressive dialogue generation framework that supports zero-shot multi-speaker, multi-turn and fine-grained temporal control. This system has been incorporated into the Azure TTS product.</p>
+                </div>
+
+                <div class="experience-item">
+                    <div class="degree-info">
+                        <h3>Research Intern - Microsoft Azure Research</h3>
+                        <span class="date">Mar 2023 - Mar 2024</span>
+                    </div>
+                    <p><strong>Location:</strong> Remote</p>
+                    <p><strong>Supervisor:</strong> Yao Qian</p>
+                    <p><strong>Projects:</strong></p>
+                    <ul>
+                        <li>Target speech extraction: Investigated diffusion-based model for target speech extraction. Proposed an efficient approach by combining diffusion and discriminative methods for handling multi- and single-speaker scenarios in both noisy and clean conditions.</li>
+                        <li>Text-to-Dialogue Generation: Investigated Conversational Voice Mixture Generation, a novel model for zero-shot, human-like, multi-speaker, multi-round dialogue speech generation.</li>
+                    </ul>
+                </div>
+
+                <div class="experience-item">
+                    <div class="degree-info">
+                        <h3>Research Intern - Microsoft Research Asia</h3>
+                        <span class="date">Nov 2022 - Mar 2023</span>
+                    </div>
+                    <p><strong>Location:</strong> Beijing, China</p>
+                    <p><strong>Supervisor:</strong> Xu Tan</p>
+                    <p><strong>Projects:</strong></p>
+                    <ul>
+                        <li>Audio generation: Implemented vector-quantized diffusion model with classifier-free guidance. Achieved 10% improvement over baseline. Investigated latent diffusion model's effects by fine-tuning Stable diffusion.</li>
+                        <li>Text-to-speech: Utilized vector-quantized diffusion model for text-to-speech on large-scale dataset with different neural audio codecs. Generated high-quality speech and achieved improvements on zero-shot text-to-speech.</li>
+                    </ul>
+                </div>
+            </section>
+
+            <section id="teaching">
+                <h2>Teaching Experience</h2>
+                
+                <div class="experience-item">
+                    <div class="degree-info">
+                        <h3>Teaching Assistant - Intelligent Speech Technology</h3>
+                        <span class="date">Spring 2025</span>
+                    </div>
+                    <p>Shanghai Jiao Tong University</p>
+                </div>
+
+                <div class="experience-item">
+                    <div class="degree-info">
+                        <h3>Teaching Assistant - Machine Learning</h3>
+                        <span class="date">Fall 2022</span>
+                    </div>
+                    <p>Shanghai Jiao Tong University</p>
+                </div>
+            </section>
+
+            <section id="awards">
+                <h2>Honors and Awards</h2>
+                
+                <div class="awards-grid">
+                    <div class="award-item">
+                        ICASSP 2025 Travel Grant
+                        <span class="year">2025</span>
+                    </div>
+                    <div class="award-item">
+                        NeurIPS 2024 Scholar Award
+                        <span class="year">2024</span>
+                    </div>
+                    <div class="award-item">
+                        National Scholarship
+                        <span class="year">2022</span>
+                    </div>
+                    <div class="award-item">
+                        First Place - CN-Celeb Speaker Recognition Challenge 2022
+                        <span class="year">2022</span>
+                    </div>
+                    <div class="award-item">
+                        ISCA and Interspeech Travel Grant
+                        <span class="year">2021</span>
+                    </div>
+                    <div class="award-item">
+                        Outstanding Graduates of Shanghai
+                        <span class="year">2021</span>
+                    </div>
+                    <div class="award-item">
+                        Outstanding Student Leader of SJTU
+                        <span class="year">2021</span>
+                    </div>
+                    <div class="award-item">
+                        Guanghua Scholarship
+                        <span class="year">2020</span>
+                    </div>
+                    <div class="award-item">
+                        SJTU Class B Scholarship
+                        <span class="year">2019</span>
+                    </div>
+                </div>
+            </section>
+
+            <section id="skills">
+                <h2>Skills</h2>
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 30px;">
+                    <div>
+                        <h3>Languages</h3>
+                        <ul>
+                            <li><strong>Chinese</strong> - Native</li>
+                            <li><strong>English</strong> - Professional</li>
+                            <li><strong>French</strong> - Professional</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h3>Interests</h3>
+                        <ul>
+                            <li>Badminton</li>
+                            <li>Yoga</li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <footer>
+            <p>&copy; 2025 Leying Zhang. All rights reserved.</p>
+            <p>Last updated: January 2025</p>
+        </footer>
+    </div>
+</body>
+</html>
